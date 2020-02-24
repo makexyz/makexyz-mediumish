@@ -8,12 +8,12 @@ featured: true
 beforetoc: "Thông qua bài viết này, bạn sẽ nắm cách thay đổi các bài Post trên Jekyll Website của mình một cách vô cùng đơn giản bằng trình duyệt mà không cài thêm công cụ nào cả! Hãy dành thêm thời gian để chăm chút cho nội dung bài Post của bạn nhé!"
 toc: true
 ---
-Bài viết được dịch từ link gốc: [Origin Post](https://blog.webjeda.com/edit-posts-jekyll/)
-
 Bài viết này sẽ hỗ trợ rất nhiều cho các bạn mới làm quen với viết blog trên Github, và không quen sử dụng Markup Language. Tât nhiên, để vượt qua rào cản ngôn ngữ, bạn cần thêm công cụ. Yên tâm, bạn chẳng cần cài thêm gì trên máy tính đâu, đúng như tiêu đề là sửa trực tuyến nhé! Tất nhiên, bạn vẫn có thể sử dụng giao diện của Github để sửa nội dung file, nhưng giao diện này không thân thiện bằng công cụ mình đề xuất. Công cụ này có tên là Prose.io. Trong bài viết, mình sẽ cập nhật chi tiết về cách sử dụng Prose.io để thêm và chỉnh sửa nội dung blog.
 
 Prose.io là một công cụ đáng tin cậy để chỉnh sửa các bài post. Giao diện, chức năng và thậm chí là hiệu ứng đều tốt. Bạn muốn up ảnh trực tiếp lên Github ử? Prose.io sẽ giúp bạn.
 Khi bạn đăng nhập vào Prose, bạn sẽ thấy yêu cầu cho phép Prose chỉnh sửa repository (gọi tắt là repo) của bạn trên Github.
+
+Bài viết được dịch từ link gốc: [Origin Post](https://blog.webjeda.com/edit-posts-jekyll/)
 
 ![prose-yeu-cau-uy-quyen](https://blog.webjeda.com/images/how-to-use-prose-io-with-jekyll.png)
 
