@@ -9,9 +9,7 @@ featured: true
 hidden: true
 ---
 
-# Mediumish là một responsive Jekyll Bootstrap Theme, tương thích với Bootstrap 4, có thể dùng cho cả mục đích cá nhân cũng như thương mại.
-
-_“Mediumish” là một theme miễn phí cho Jekyll chuyên dùng để viết blog, xây website cá nhân và rất nhiều ứng dụng khác_
+_Mediumish là một responsive Jekyll Bootstrap Theme miễn phí, tương thích với Bootstrap 4, có thể dùng cho cả mục đích cá nhân cũng như thương mại; chuyên dùng để viết blog, xây website cá nhân và rất nhiều ứng dụng khác_
 
 ## Tính năng
 
