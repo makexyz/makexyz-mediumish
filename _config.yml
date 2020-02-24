@@ -1,0 +1,72 @@
+# Site
+name: "makeXYZ"
+title: "makeXYZ"
+description: "make.diy.thing"
+logo: 'assets/images/makexyz-logo-nopadding.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/'
+google_analytics: ''
+disqus: 'makexyz blog'
+mailchimp-list: 'https://github.us4.list-manage.com/subscribe/post?u=1e7c95a3add95b4fa6c8370b6&amp;id=f6bdd71be8'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  tony:
+    name: Tony Pham
+    display_name: Tony Pham
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: thanh01.pmt@gmail.com
+    web: https://thanh01pmt.github.io/
+    youtube: https://www.youtube.com/channel/UC4v28AauStqzl2rwNGl9QcA
+    description: "Tony Pham is a hobbyist and STEAM teacher in Vietnam. He's now studying about ESP32-CAM and Vue framework"
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-2522773707742607"
+# adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
