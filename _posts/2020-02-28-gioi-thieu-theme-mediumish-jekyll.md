@@ -7,43 +7,44 @@ tag: [ blogging, masonry ]
 image: https://bootstrapstarter.com/assets/img/themes/mediumish-jekyll.jpg
 featured: true
 hidden: true
+rating: 5
+beforetoc: "Mediumish là một responsive Jekyll Bootstrap Theme miễn phí, tương thích với Bootstrap 4, có thể dùng cho cả mục đích cá nhân cũng như thương mại; chuyên dùng để viết blog, xây website cá nhân và rất nhiều ứng dụng khác"
+toc: true
 ---
-
-_Mediumish là một responsive Jekyll Bootstrap Theme miễn phí, tương thích với Bootstrap 4, có thể dùng cho cả mục đích cá nhân cũng như thương mại; chuyên dùng để viết blog, xây website cá nhân và rất nhiều ứng dụng khác_
 
 ## Tính năng
 
-    1. Được xây dựng cho Jekyll
-    2. Tương thích với Github pages
-    3. Bài viết nổi bật (Featured Posts)
-    4. Đánh số phân trang (Index Pagination)
-    5. Tối ưu hóa cho công cụ tìm kiếm (SEO)
-    6. Feed
-    7. Sơ đồ trang (Sitemap)
-    8. Chia sẻ bài viết (Post Share)
-    9. Phân loại bài viết (Post Categories)
-    10. Bài viết kế tiếp / trước đó (Prev/Next Link)
-    11. Category Archives (Compatible with Github pages)
-    12. Jumbotron Categories
-    13. Đánh giá trên bài viết (Post Reviews with Stars)
-    14. Bôi mờ đoạn văn bản (Blurred Spoilers)
-    15. Danh sách nội dung tự động (Table of Content)
-    16. Lazy Load Images
-    17. Tích hợp:
-        * Disqus Comments => Dành cho đánh giá
-        * Google Analaytics => Dành cho thống kê tự động số truy cập vào trang
-        * Mailchimp Integration => Dành cho đăng ký nhận tin
-        * Adsense => Dành để chèn quảng cáo từ Google
-    18. Các tính năng thiết kế nổi bật:
-        * Bootstrap v4.x
-        * Font Awesome
-        * Masonry
-    19. Các dạng Layout:
-        * Default
-        * Post
-        * Page
-        * Archive
-        * Categories (100% tương thích với Github pages)
+1. Được xây dựng cho Jekyll
+2. Tương thích với Github pages
+3. Bài viết nổi bật (Featured Posts)
+4. Đánh số phân trang (Index Pagination)
+5. Tối ưu hóa cho công cụ tìm kiếm (SEO)
+6. Feed
+7. Sơ đồ trang (Sitemap)
+8. Chia sẻ bài viết (Post Share)
+9. Phân loại bài viết (Post Categories)
+10. Bài viết kế tiếp / trước đó (Prev/Next Link)
+11. Category Archives (Compatible with Github pages)
+12. Jumbotron Categories
+13. Đánh giá trên bài viết (Post Reviews with Stars)
+14. Bôi mờ đoạn văn bản (Blurred Spoilers)
+15. Danh sách nội dung tự động (Table of Content)
+16. Lazy Load Images
+17. Tích hợp:
+    * Disqus Comments => Dành cho đánh giá
+    * Google Analaytics => Dành cho thống kê tự động số truy cập vào trang
+    * Mailchimp Integration => Dành cho đăng ký nhận tin
+    * Adsense => Dành để chèn quảng cáo từ Google
+18. Các tính năng thiết kế nổi bật:
+    * Bootstrap v4.x
+    * Font Awesome
+    * Masonry
+19. Các dạng Layout:
+    * Default
+    * Post
+    * Page
+    * Archive
+    * Categories (100% tương thích với Github pages)
 
 ![Mediumish Theme Demo](https://bootstrapstarter.com/assets/img/themes/mediumish-jekyll.jpg)
 
