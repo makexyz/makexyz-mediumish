@@ -33,7 +33,7 @@ Và, App Inventor sử dụng đơn vị dp chứ không phải px như hiển t
 
 Đúng là nếu để đơn vị Percent (%), bạn sẽ có thể kiểm soát được kích thước Component hiển thị đúng tỷ lệ mình muốn trên các màn hình có độ phân giải khác nhau. Nhưng, bạn có thể kiểm soát được kích thước Font chữ không?
 
-Cái nút trên ứng dụng của bạn được khai báo Width=50% sẽ luôn hiển thị chính xác là 50% chiều rộng màn hình dù trên điện thoại hay tablet. Tuy nhiên, cái nút với Font Size = 16 hiển thị rất đẹp trên điện thoại thì lại vô cùng lởm trên tablet khi chữ quá nhỏ so với viền nút! Font Size được tính toán dựa trên Dp nên sẽ hiển thị tương đối như nhau trên các thiết bị có độ phân giải khác nhau.
+Cái nút trên ứng dụng của bạn được khai báo Width = 50% sẽ luôn hiển thị chính xác là 50% chiều rộng màn hình dù trên điện thoại hay tablet. Tuy nhiên, cái nút với Font Size = 16 hiển thị rất đẹp trên điện thoại thì lại vô cùng lởm trên tablet khi chữ quá nhỏ so với viền nút! Font Size được tính toán dựa trên Dp nên sẽ hiển thị tương đối như nhau trên các thiết bị có độ phân giải khác nhau.
 
 Hiểu được sự khác biệt giữa px và dp sẽ là cơ sở giúp bạn phân loại được đâu là điện thoại, đâu là tablet để thiết kế giao diện cho phù hợp. Điện thoại của mình có độ phân giải (px) rất cao, cao hơn nhiều so với các tablet tầm thấp và cận trung nhưng nó vẫn là điện thoại vì dp của nó chưa đủ để là tablet!
 
