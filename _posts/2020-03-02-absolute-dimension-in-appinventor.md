@@ -38,7 +38,9 @@ Cái nút trên ứng dụng của bạn được khai báo Width = 50% sẽ lu�
 Hiểu được sự khác biệt giữa px và dp sẽ là cơ sở giúp bạn phân loại được đâu là điện thoại, đâu là tablet để thiết kế giao diện cho phù hợp. Điện thoại của mình có độ phân giải (px) rất cao, cao hơn nhiều so với các tablet tầm thấp và cận trung nhưng nó vẫn là điện thoại vì dp của nó chưa đủ để là tablet!
 
 ## TÀI LIỆU THAM KHẢO
+
 Link hay mà các bạn có thể tham khảo trong thiết kế Responsive với App Inventor
+
 1. [Kích thước thiết bị](https://material.io/resources/devices/)
 2. [Đo độ phân giải màn hình của bạn](https://www.mydevice.io/#compare-devices)
 3. [AppyBuilder TIPS: Responsive App Design (Best Practices, Concepts) - YouTube](https://www.youtube.com/watch?v=DYuzZWudt0w)
