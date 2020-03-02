@@ -11,7 +11,7 @@ rating: 5
 beforetoc: "Nội dung bài viết chia thành các phần chính sau:"
 toc: true
 ---
-Bài viết này chỉ ra 1 lỗi sai nghiêm trọng về đơn vị đo sẽ khiến các bạn không kiểu gì hình dung được tại sao mình thiết kế 1 đằng nhưng App Inventor lại hiển thị 1 nẻo trong Responsive Mode.
+Bài viết này chỉ ra 1 lỗi sai nghiêm trọng về đơn vị đo sẽ khiến các bạn không kiểu gì hình dung được tại sao mình thiết kế một đằng nhưng App Inventor lại hiển thị một nẻo trong Responsive Mode.
 
 ![Screen Sizing in App Inventor](https://i.ibb.co/vLZbkg3/Screen-Sizing.png)
 
